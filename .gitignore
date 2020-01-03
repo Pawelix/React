@@ -1,7 +1,5 @@
 bin
 obj
 *.db
-.vs
 .vscode
-appsettings.json
-.DS_Strore
+.vs
